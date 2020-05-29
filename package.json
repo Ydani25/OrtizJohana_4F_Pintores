@@ -1,0 +1,17 @@
+{
+  "name": "sitio-web",
+  "version": "1.0.0",
+  "description": "Pagina web",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "hbs": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johana Ortiz",
+  "license": "ISC"
+}
