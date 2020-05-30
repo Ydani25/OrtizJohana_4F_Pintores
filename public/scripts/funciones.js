@@ -1,0 +1,1 @@
+alert('Bienvenidos, aquí acerca de 4 pintores con algunas obras realmente fascinantes y parte de su historia');
